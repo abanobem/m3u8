@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4073942,RESOLUTION=1920x1080,CODECS="mp4a.40.2,avc1.77.30"
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2900612,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.77.30"
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_720p/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1961942,RESOLUTION=854x480,CODECS="mp4a.40.2,avc1.77.30"
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_480p/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1375250,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.77.30"
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_360p/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=347730,RESOLUTION=320x240,CODECS="mp4a.40.2,avc1.77.30"
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_240p/chunks.m3u8
